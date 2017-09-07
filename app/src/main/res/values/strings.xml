@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+
+
+    <!-- Slide 1-->
+    <string name="slide_1_title">Example</string>
+    <string name="slide_1_desc">This Slide 1</string>
+
+    <!-- Slide 2-->
+    <string name="slide_2_title">Example2</string>
+    <string name="slide_2_desc">This Slide 2</string>
+
+    <!-- Slide 3-->
+    <string name="slide_3_title">Example3</string>
+    <string name="slide_3_desc">This Slide 3</string>
+
+    <!-- Slide 4-->
+    <string name="slide_4_title">Example4</string>
+    <string name="slide_4_desc">This Slide 4</string>
+
+    <string name="my_preference">"com.abc.com.MyPref"</string>
+    <string name="my_preference_key">"com.abc.com.MyPref"</string>
+</resources>
